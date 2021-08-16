@@ -7,7 +7,9 @@
 /* header */
 #header {
     height: 50px; 
-    position: fixed; 
+    position: fixed;
+    top:0;
+    left:0; 
     margin: 0 auto; 
     align-items: center;
     display: flex;
