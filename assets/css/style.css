@@ -5,7 +5,13 @@
 .row {position: relative; margin: 0 20px;}
 
 /* header */
-#header {height: 50px; position: fixed; margin: 0 auto; }
+#header {
+    height: 50px; 
+    position: fixed; 
+    margin: 0 auto; 
+    align-items: center;
+    display: flex;
+    }
 
 #header .head_date {
     font-style: normal;
