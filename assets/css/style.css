@@ -50,11 +50,7 @@
 .menu_logo {width: 74px; height: 45px; margin: auto;}
 
 /* music */
-.music {
-        position:relative;
-        left: 0px;
-        top: 51px;
- }
+.music { }
 
 /* bestM */
 .swiper-container {margin: 0 20px;}
