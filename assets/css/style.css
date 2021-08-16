@@ -48,7 +48,10 @@
 .menu_logo {width: 74px; height: 45px; margin: auto;}
 
 /* music */
-.music { }
+.music {
+        left: 0px;
+        top: 51px;
+ }
 
 /* bestM */
 .swiper-container {margin: 0 20px;}
