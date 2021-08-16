@@ -37,6 +37,9 @@
     background: linear-gradient(180deg, #A4A9B5 0%, #898E99 100%), #9497A5;
 }
 
+/* menu_logo */
+.menu_logo {align: center}
+
 /* music */
 .music { }
 
