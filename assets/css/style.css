@@ -7,10 +7,10 @@
 /* header */
 #header {
     height: 50px;
-    width:100% ; 
+    width: 100%;  
     position: fixed;
-    top:0;
-    left:0;
+    top: 0;
+    left: 0;
     z-index: 999;
     color: #ffffff;
     margin: 0 auto; 
