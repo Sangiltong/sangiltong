@@ -38,7 +38,7 @@
 }
 
 /* menu_logo */
-.menu_logo {width: 74px; position: center}
+.menu_logo {width: 74px; margin: 0 auto;}
 
 /* music */
 .music { }
