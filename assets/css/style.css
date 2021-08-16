@@ -51,6 +51,7 @@
 
 /* music */
 .music {
+        position:relative;
         left: 0px;
         top: 51px;
  }
