@@ -50,6 +50,13 @@
 /* menu_logo */
 .menu_logo {width: 74px; height: 45px; margin: auto;}
 
+/* music */
+.music {
+    position: relative;
+    left: 0;
+    top: 51px;
+}
+
 /* bestM */
 .swiper-container {margin: 0 20px;}
 .bestM {border-top: 1px solid #ebebeb; padding-top: 10px; }
