@@ -9,7 +9,9 @@
     height: 50px; 
     position: fixed;
     top:0;
-    left:0; 
+    left:0;
+    z-index: 999;
+    color: #ffffff;
     margin: 0 auto; 
     align-items: center;
     display: flex;
