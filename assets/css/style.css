@@ -49,6 +49,7 @@
 
 /* music */
 .music {
+        position: fixed;
         left: 0px;
         top: 51px;
  }
