@@ -19,7 +19,7 @@
     }
 
 #header .head_logo {
-    height: 45px; margin: auto;}
+    width: 141; height: 45px; margin: auto;}
 
 #header .head_menu{
     width: 100%; height:45px; 
