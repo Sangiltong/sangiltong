@@ -51,7 +51,13 @@
 .menu_logo {width: 100%; height: 45px; margin: auto;}
 
 /* menu_bar */
-.menu_bar {width: 100%; height:45px; font-size: 24px; font-weight: medium; margin-bottom: 12px; margin-top: 12px}
+.menu_bar {
+    width: 100%; height:45px; 
+    font-size: 18px; font-weight: medium; color: #818183;
+    margin-bottom: 12px; margin-top: 12px;
+    display:inline;
+    overflow-x:scroll;
+}
 
 /* music */
 .music {
